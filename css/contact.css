@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+::-webkit-input-placeholder { 
+    color: #c1c7e9;
+}
+:-moz-placeholder { 
+   color: #c1c7e9;
+}
+::-moz-placeholder { 
+    color: #c1c7e9;
+}
+:-ms-input-placeholder { 
+    color: #c1c7e9;
+}
+
+.contact {
+	height: 1050px;
+	overflow: hidden;
+}
+.main .contact-top {
+	text-align: center;
+	padding: 40px 0;
+	background-color: #f0f5f9;
+}
+.contact-top .contact-c{
+	font-size: 20px; 
+	font-weight: bold;
+	color: #434446;
+}
+.contact-top .contact-e{
+	font-size: 16px;
+	color: #d5d9dc;
+}
+.contact-centent-top {
+	background: url(../images/33.png) no-repeat center;
+	height: 530px;
+}
+.contact-centent-bottom {
+	background-color: #035bbe;
+	height: 358px;
+	padding-top: 35px;
+}
+.contact-centent-bottom-left {
+	width: 555px;
+	float: left;
+}
+.contact-centent-bottom-leftUL {
+	float: left;
+	margin-top: 5px;
+}
+.contact-centent-bottom-leftUL li{
+	color: #cdddff;
+	overflow: hidden;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+.contact-centent-bottom-left .ImgMax {
+	width: 35px;
+	float: left;
+}
+.contact-centent-bottom-left .ImgMin {
+	width: 15px;
+	float: left;
+}
+.contact-centent-bottom-leftUL li:nth-child(1){
+	margin-left: 0;
+}
+.contact-centent-bottom-leftUL li:nth-child(2) .ImgMin{
+	margin-top: 6px;
+}
+.contact-centent-bottom-leftUL li:nth-child(3) .ImgMin{
+	margin-top: 20px;
+}
+.contact-centent-bottom-leftUL li:nth-child(4) .ImgMin{
+	margin-top: 15px;
+}
+.contact-centent-bottom-leftFont {
+	font-size: 10px;
+	margin-left: 20px;
+	float: left;
+}
+.contact-centent-bottom-leftFont .FontMax {
+	font-size: 19px;
+}
+.contact-centent-bottom-leftFont p{
+	margin-bottom: 5px;
+	font-size: 10px;
+}
+.contact-centent-bottom-right {
+	float: right;
+	position: relative;
+	margin-right: 50px;
+}
+.contact-centent-bottom-right li {
+	margin-bottom: 10px;
+}
+.contact-centent-bottom-right li input.text {
+	background-color: transparent;
+	border: 1px solid #9abbe4;
+	width: 535px;
+	height: 46px;
+	padding-left: 20px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+}
+.contact-centent-bottom-right li:nth-child(3) .text {
+	padding-bottom: 160px;
+}
+.contact-centent-bottom-right li .btn {
+	width: 110px;
+	height: 40px;
+	line-height: 40px;
+	color: #cdd9e9;
+	font-size: 15px;
+	background-color: #699dd9;
+	font-weight: bold;
+	text-align: center;
+	padding-left: 10px;
+	cursor: pointer;
+	position: absolute;
+	bottom: 11px;
+	right: 1px;
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

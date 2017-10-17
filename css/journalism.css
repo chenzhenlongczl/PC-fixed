@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+.business-top {
+	text-align: center;
+	padding: 40px 0;
+	background-color: #f0f5f9;
+}
+.business-top .business-c{
+	font-size: 20px; 
+	font-weight: bold;
+	color: #434446;
+}
+.business-top .business-e{
+	font-size: 16px;
+	color: #d5d9dc;
+}
+.business-centent {
+	height: 1050px;
+	background-color: white;
+	overflow: hidden;
+}
+.business-cententUl .business-cententLi{
+	margin-top: 30px;
+	background-color: #357cca;
+	overflow: hidden;
+	height: 150px;
+}
+.business-cententUl .business-cententLi li {
+	float: left;
+	color: #dee3e7;
+}
+.business-cententUl .business-cententImg {
+	width: 218px;
+}
+.business-cententUl .business-cententDate {
+	width: 200px;
+	text-align: center;
+}
+.business-cententUl .business-cententDate h1 {
+	font-size: 60px;
+	margin-top: 30px;
+}
+.business-cententUl .business-cententDate h4 {
+	font-size: 16px;
+}
+.business-cententUl .business-cententFont {
+	width: 685px;
+	margin-left: 55px;
+}
+.business-cententUl .business-cententFont h3 {
+	font-size: 16px;
+	margin: 15px 0;
+}
+.business-cententUl .business-cententFont p {
+	line-height: 25px;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.business-centent-page {
+	text-align: right;
+	margin-top: 40px;
+}
+.business-centent-page li {
+	display: inline-block;
+}
+.business-centent-page li a {
+	color: #999;
+}
+.business-centent-page li a:hover {
+	color: #518dd3;
+}
+.business-centent-page .active a {
+	color: #518dd3;
+} 
+
+
+
+
+
+
+

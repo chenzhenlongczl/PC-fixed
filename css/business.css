@@ -1,0 +1,67 @@
+@charset "utf-8";
+ /*分区*/
+.business-top {
+	height: 65px;
+	background-color: #f0f5f9;
+}
+.business-top .btn {
+	width: 300px;
+	height: 65px;
+	line-height: 65px;
+	text-align: center;
+	background-color: #035bbf;
+	float: right;
+	font-size: 20px;
+}
+.business-top .btn a {
+	color: white;
+}
+.business-content {
+	height: 1050px;
+	overflow: hidden;
+}
+.business-content-title {
+	font-size: 14px;
+	text-align: center;
+	color: #414141;
+	font-weight: bold;
+	margin: 50px 0;
+}
+.business-content-body {
+	overflow: hidden;
+}
+.business-content-left {
+	font-size: 12px;
+	width: 610px;
+	height: 742px;
+	float: left;
+	margin-left: 60px;
+}
+.business-content-left .business-contentLi {
+	margin-bottom: 65px;
+}
+.business-contentLi li {
+	list-style: disc;
+}
+.business-content-left p,.business-content-left li  {
+	color: #7b7b7b;
+}
+.business-content-left li  {
+	margin: 15px 0 15px 15px;
+}
+.business-content-right {
+	float: left;
+	margin-left: 30px;
+}
+.business-content-right li{
+	width: 450px;
+	margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
